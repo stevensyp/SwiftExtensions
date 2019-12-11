@@ -6,9 +6,7 @@ output: "./docs"
 readme: "**/README.md"
 
 exclude:
-    - "**/Example/*"
-    - "**/AppDelegate.swift"
-    - "**/SceneDelegate.swift"
+    - "./SwiftExtensions/Sample\ App/*"
 
 custom_categories:
   - name: UI Elements
