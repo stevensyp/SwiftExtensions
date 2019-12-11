@@ -1,0 +1,40 @@
+theme: fullwidth
+min_acl: internal
+undocumented_text: ""
+
+output: "./docs"
+readme: "**/README.md"
+
+exclude:
+    - "**/Example/*"
+    - "**/AppDelegate.swift"
+    - "**/SceneDelegate.swift"
+
+custom_categories:
+  - name: UI Elements
+    children:
+    - SETextField
+    - SEButton
+    - SEPrimaryButton
+    - SESecondaryButton
+    - SETertiaryButton
+    - SEQuaternaryButton
+
+  - name: UIKit
+    children:
+    - UIColor
+    - UITextField
+    - UIView
+    - UIViewController
+    - UIViewDesignable
+    - UIViewGradient
+
+  - name: SEHelpers
+    children:
+    - SEAnimation
+    - SEDebug
+    - SEKeyboardManager
+
+  - name: Foundation
+    children:
+    - Date

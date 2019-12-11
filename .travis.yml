@@ -1,0 +1,15 @@
+language: objective-c
+
+xcode_project: ./SwiftExtensions/SwiftExtensions.xcodeproj
+xcode_scheme: SwiftExtensions
+xcode_destination: platform=iOS Simulator,OS=13.2.2,name=iPhone 11
+
+os: osx
+osx_image: xcode11.2
+
+deploy:
+  provider: pages
+  token: $GH_TOKEN
+  local_dir: docs
+  on:
+    branch: master
