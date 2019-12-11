@@ -22,6 +22,7 @@ custom_categories:
 
   - name: UIKit
     children:
+    - UIApplication
     - UIColor
     - UITextField
     - UIView
