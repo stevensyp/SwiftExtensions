@@ -7,10 +7,6 @@ xcode_destination: platform=iOS Simulator,OS=13.2.2,name=iPhone 11
 os: osx
 osx_image: xcode11.2
 
-after_success:
-- gem install jazzy
-- jazzy
-
 deploy:
   provider: pages
   token: $GH_TOKEN
