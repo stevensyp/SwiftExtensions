@@ -14,6 +14,17 @@
 		FB8345E023A1486D002B4B7E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB8345DF23A1486D002B4B7E /* Assets.xcassets */; };
 		FB8345E323A1486D002B4B7E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB8345E123A1486D002B4B7E /* LaunchScreen.storyboard */; };
 		FB8345EE23A1486D002B4B7E /* SwiftExtensionsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB8345ED23A1486D002B4B7E /* SwiftExtensionsTests.swift */; };
+		FB83460923A14893002B4B7E /* SEKeyboardManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB8345FB23A14893002B4B7E /* SEKeyboardManager.swift */; };
+		FB83460A23A14893002B4B7E /* SEAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB8345FC23A14893002B4B7E /* SEAnimation.swift */; };
+		FB83460B23A14893002B4B7E /* SEDebug.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB8345FD23A14893002B4B7E /* SEDebug.swift */; };
+		FB83460C23A14893002B4B7E /* UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB8345FF23A14893002B4B7E /* UIView.swift */; };
+		FB83460D23A14893002B4B7E /* UIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB83460023A14893002B4B7E /* UIColor.swift */; };
+		FB83460E23A14893002B4B7E /* UITextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB83460123A14893002B4B7E /* UITextField.swift */; };
+		FB83460F23A14893002B4B7E /* UIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB83460223A14893002B4B7E /* UIViewController.swift */; };
+		FB83461023A14893002B4B7E /* UIApplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB83460323A14893002B4B7E /* UIApplication.swift */; };
+		FB83461123A14893002B4B7E /* Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB83460523A14893002B4B7E /* Date.swift */; };
+		FB83461223A14893002B4B7E /* SETextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB83460723A14893002B4B7E /* SETextField.swift */; };
+		FB83461323A14893002B4B7E /* SEButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB83460823A14893002B4B7E /* SEButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +49,17 @@
 		FB8345E923A1486D002B4B7E /* SwiftExtensionsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftExtensionsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB8345ED23A1486D002B4B7E /* SwiftExtensionsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftExtensionsTests.swift; sourceTree = "<group>"; };
 		FB8345EF23A1486D002B4B7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FB8345FB23A14893002B4B7E /* SEKeyboardManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SEKeyboardManager.swift; sourceTree = "<group>"; };
+		FB8345FC23A14893002B4B7E /* SEAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SEAnimation.swift; sourceTree = "<group>"; };
+		FB8345FD23A14893002B4B7E /* SEDebug.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SEDebug.swift; sourceTree = "<group>"; };
+		FB8345FF23A14893002B4B7E /* UIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIView.swift; sourceTree = "<group>"; };
+		FB83460023A14893002B4B7E /* UIColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIColor.swift; sourceTree = "<group>"; };
+		FB83460123A14893002B4B7E /* UITextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UITextField.swift; sourceTree = "<group>"; };
+		FB83460223A14893002B4B7E /* UIViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewController.swift; sourceTree = "<group>"; };
+		FB83460323A14893002B4B7E /* UIApplication.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIApplication.swift; sourceTree = "<group>"; };
+		FB83460523A14893002B4B7E /* Date.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Date.swift; sourceTree = "<group>"; };
+		FB83460723A14893002B4B7E /* SETextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SETextField.swift; sourceTree = "<group>"; };
+		FB83460823A14893002B4B7E /* SEButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SEButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,12 +101,8 @@
 		FB8345D523A1486C002B4B7E /* SwiftExtensions */ = {
 			isa = PBXGroup;
 			children = (
-				FB8345D623A1486C002B4B7E /* AppDelegate.swift */,
-				FB8345D823A1486C002B4B7E /* SceneDelegate.swift */,
-				FB8345DA23A1486C002B4B7E /* ViewController.swift */,
-				FB8345DC23A1486C002B4B7E /* Main.storyboard */,
-				FB8345DF23A1486D002B4B7E /* Assets.xcassets */,
-				FB8345E123A1486D002B4B7E /* LaunchScreen.storyboard */,
+				FB8345F923A14893002B4B7E /* Sources */,
+				FB8345F823A14882002B4B7E /* Sample App */,
 				FB8345E423A1486D002B4B7E /* Info.plist */,
 			);
 			path = SwiftExtensions;
@@ -97,6 +115,69 @@
 				FB8345EF23A1486D002B4B7E /* Info.plist */,
 			);
 			path = SwiftExtensionsTests;
+			sourceTree = "<group>";
+		};
+		FB8345F823A14882002B4B7E /* Sample App */ = {
+			isa = PBXGroup;
+			children = (
+				FB8345D623A1486C002B4B7E /* AppDelegate.swift */,
+				FB8345D823A1486C002B4B7E /* SceneDelegate.swift */,
+				FB8345DA23A1486C002B4B7E /* ViewController.swift */,
+				FB8345DC23A1486C002B4B7E /* Main.storyboard */,
+				FB8345DF23A1486D002B4B7E /* Assets.xcassets */,
+				FB8345E123A1486D002B4B7E /* LaunchScreen.storyboard */,
+			);
+			path = "Sample App";
+			sourceTree = "<group>";
+		};
+		FB8345F923A14893002B4B7E /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				FB8345FA23A14893002B4B7E /* SEHelpers */,
+				FB8345FE23A14893002B4B7E /* UIKit */,
+				FB83460423A14893002B4B7E /* Foundation */,
+				FB83460623A14893002B4B7E /* SEElements */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
+		FB8345FA23A14893002B4B7E /* SEHelpers */ = {
+			isa = PBXGroup;
+			children = (
+				FB8345FB23A14893002B4B7E /* SEKeyboardManager.swift */,
+				FB8345FC23A14893002B4B7E /* SEAnimation.swift */,
+				FB8345FD23A14893002B4B7E /* SEDebug.swift */,
+			);
+			path = SEHelpers;
+			sourceTree = "<group>";
+		};
+		FB8345FE23A14893002B4B7E /* UIKit */ = {
+			isa = PBXGroup;
+			children = (
+				FB8345FF23A14893002B4B7E /* UIView.swift */,
+				FB83460023A14893002B4B7E /* UIColor.swift */,
+				FB83460123A14893002B4B7E /* UITextField.swift */,
+				FB83460223A14893002B4B7E /* UIViewController.swift */,
+				FB83460323A14893002B4B7E /* UIApplication.swift */,
+			);
+			path = UIKit;
+			sourceTree = "<group>";
+		};
+		FB83460423A14893002B4B7E /* Foundation */ = {
+			isa = PBXGroup;
+			children = (
+				FB83460523A14893002B4B7E /* Date.swift */,
+			);
+			path = Foundation;
+			sourceTree = "<group>";
+		};
+		FB83460623A14893002B4B7E /* SEElements */ = {
+			isa = PBXGroup;
+			children = (
+				FB83460723A14893002B4B7E /* SETextField.swift */,
+				FB83460823A14893002B4B7E /* SEButton.swift */,
+			);
+			path = SEElements;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -202,6 +283,17 @@
 			files = (
 				FB8345DB23A1486C002B4B7E /* ViewController.swift in Sources */,
 				FB8345D723A1486C002B4B7E /* AppDelegate.swift in Sources */,
+				FB83460E23A14893002B4B7E /* UITextField.swift in Sources */,
+				FB83461023A14893002B4B7E /* UIApplication.swift in Sources */,
+				FB83460A23A14893002B4B7E /* SEAnimation.swift in Sources */,
+				FB83460F23A14893002B4B7E /* UIViewController.swift in Sources */,
+				FB83460C23A14893002B4B7E /* UIView.swift in Sources */,
+				FB83461323A14893002B4B7E /* SEButton.swift in Sources */,
+				FB83461123A14893002B4B7E /* Date.swift in Sources */,
+				FB83460B23A14893002B4B7E /* SEDebug.swift in Sources */,
+				FB83461223A14893002B4B7E /* SETextField.swift in Sources */,
+				FB83460D23A14893002B4B7E /* UIColor.swift in Sources */,
+				FB83460923A14893002B4B7E /* SEKeyboardManager.swift in Sources */,
 				FB8345D923A1486C002B4B7E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
