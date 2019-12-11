@@ -1,0 +1,306 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/SEElements/SETextField.swift",
+      "line": 11,
+      "symbol": "SETextField",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/SEElements/SETextField.swift",
+      "line": 15,
+      "symbol": "SETextField.SETextFieldState.active",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/SEElements/SETextField.swift",
+      "line": 15,
+      "symbol": "SETextField.SETextFieldState.disabled",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/SEElements/SETextField.swift",
+      "line": 15,
+      "symbol": "SETextField.SETextFieldState.empty",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/SEElements/SETextField.swift",
+      "line": 15,
+      "symbol": "SETextField.SETextFieldState.enabled",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/SEElements/SETextField.swift",
+      "line": 15,
+      "symbol": "SETextField.SETextFieldState.filled",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/SEElements/SETextField.swift",
+      "line": 15,
+      "symbol": "SETextField.SETextFieldState.incorrect",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/SEElements/SETextField.swift",
+      "line": 63,
+      "symbol": "SETextField",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/SEElements/SETextField.swift",
+      "line": 104,
+      "symbol": "SETextField",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/SEHelpers/SEDebug.swift",
+      "line": 41,
+      "symbol": "SEDebug.LogType.comment",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/SEHelpers/SEDebug.swift",
+      "line": 41,
+      "symbol": "SEDebug.LogType.warning",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/SEHelpers/SEDebug.swift",
+      "line": 42,
+      "symbol": "SEDebug.LogType.error",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/SEHelpers/SEDebug.swift",
+      "line": 42,
+      "symbol": "SEDebug.LogType.success",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/SEHelpers/SEDebug.swift",
+      "line": 43,
+      "symbol": "SEDebug.LogType.fatalError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/SEHelpers/SEKeyboardManager.swift",
+      "line": 11,
+      "symbol": "SEKeyboardManager",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/SEHelpers/SEKeyboardManager.swift",
+      "line": 56,
+      "symbol": "SEKeyboardManager.KeyboardEvent.willHide",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/SEHelpers/SEKeyboardManager.swift",
+      "line": 56,
+      "symbol": "SEKeyboardManager.KeyboardEvent.willShow",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/UIKit/UIColor.swift",
+      "line": 53,
+      "symbol": "UIColor.System.label",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/UIKit/UIColor.swift",
+      "line": 57,
+      "symbol": "UIColor.System.secondaryLabel",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/UIKit/UIColor.swift",
+      "line": 61,
+      "symbol": "UIColor.System.tertiaryLabel",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/UIKit/UIColor.swift",
+      "line": 65,
+      "symbol": "UIColor.System.quaternaryLabel",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/UIKit/UIColor.swift",
+      "line": 69,
+      "symbol": "UIColor.System.placeholderText",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/UIKit/UIColor.swift",
+      "line": 73,
+      "symbol": "UIColor.System.link",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/UIKit/UIColor.swift",
+      "line": 77,
+      "symbol": "UIColor.System.darkText",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/UIKit/UIColor.swift",
+      "line": 81,
+      "symbol": "UIColor.System.lightText",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/UIKit/UIColor.swift",
+      "line": 87,
+      "symbol": "UIColor.System.systemFill",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/UIKit/UIColor.swift",
+      "line": 91,
+      "symbol": "UIColor.System.secondarySystemFill",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/UIKit/UIColor.swift",
+      "line": 95,
+      "symbol": "UIColor.System.tertiarySystemFill",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/UIKit/UIColor.swift",
+      "line": 99,
+      "symbol": "UIColor.System.quaternarySystemFill",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/UIKit/UIColor.swift",
+      "line": 105,
+      "symbol": "UIColor.System.systemBackground",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/UIKit/UIColor.swift",
+      "line": 109,
+      "symbol": "UIColor.System.secondarySystemBackground",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/UIKit/UIColor.swift",
+      "line": 113,
+      "symbol": "UIColor.System.tertiarySystemBackground",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/UIKit/UIColor.swift",
+      "line": 117,
+      "symbol": "UIColor.System.systemGroupedBackground",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/UIKit/UIColor.swift",
+      "line": 121,
+      "symbol": "UIColor.System.secondarySystemGroupedBackground",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/UIKit/UIColor.swift",
+      "line": 125,
+      "symbol": "UIColor.System.tertiarySystemGroupedBackground",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/UIKit/UIColor.swift",
+      "line": 131,
+      "symbol": "UIColor.System.separator",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/UIKit/UIColor.swift",
+      "line": 135,
+      "symbol": "UIColor.System.opaqueSeparator",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/UIKit/UIColor.swift",
+      "line": 141,
+      "symbol": "UIColor.System.systemGray",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/UIKit/UIColor.swift",
+      "line": 145,
+      "symbol": "UIColor.System.systemGray2",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/UIKit/UIColor.swift",
+      "line": 149,
+      "symbol": "UIColor.System.systemGray3",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/UIKit/UIColor.swift",
+      "line": 153,
+      "symbol": "UIColor.System.systemGray4",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/UIKit/UIColor.swift",
+      "line": 157,
+      "symbol": "UIColor.System.systemGray5",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/stevensyp/Swift/SwiftExtensions/SwiftExtensions/Sources/UIKit/UIColor.swift",
+      "line": 161,
+      "symbol": "UIColor.System.systemGray6",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/stevensyp/Swift/SwiftExtensions"
+}
