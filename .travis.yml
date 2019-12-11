@@ -1,6 +1,6 @@
 language: objective-c
 
-xcode_project: ./SwiftExtensions/SwiftExtensions.xcodeproj
+xcode_project: ./SwiftExtensions.xcodeproj
 xcode_scheme: SwiftExtensions
 xcode_destination: platform=iOS Simulator,OS=13.2.2,name=iPhone 11
 
